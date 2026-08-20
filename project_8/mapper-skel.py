@@ -1,7 +1,5 @@
 """ Construct a treemap.
-Author: _Your name here_
-Credits: _Did you collaborate with other students or find useful materials online?
-         _Did you use AI tools to create some starter code?
+Author: Josh Gilliam
 
 Instructions:  Copy this file to mapper.py and then edit it. REMOVE this part of the
 docstring and complete the identifying information above.  Credits should start out
