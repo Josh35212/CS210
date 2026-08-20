@@ -13,13 +13,13 @@ Projects completed for **CS210** at the **University of Oregon**.
 | Project | Title | Description |
 |:-------:|-------|-------------|
 | [Project 1](./project_1) | **Jumbler** | **List dictionary words that match an anagram** |
-| [Project 2](./project_2) | | |
-| [Project 3](./project_3) | | |
-| [Project 4](./project_4) | | |
-| [Project 5](./project_5) | | |
-| [Project 6](./project_6) | | |
-| [Project 7](./project_7) | | |
-| [Project 8](./project_8) | | |
+| [Project 2](./project_2) | **Estimating Pi** | **** |
+| [Project 3](./project_3) | **Class Enrollment** | **** |
+| [Project 4](./project_4) | **** | **** |
+| [Project 5](./project_5) | **** | **** |
+| [Project 6](./project_6) | **** | **** |
+| [Project 7](./project_7) | **** | **** |
+| [Project 8](./project_8) | **** | **** |
 
 ---
 
