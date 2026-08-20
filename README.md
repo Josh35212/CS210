@@ -8,7 +8,7 @@ FOR THE FILES OF CODE MENTIONED IN EACH PROJECT README.md!!
 ----------DIRECTORY----------
 project_1
   title: Jumbler
-  description: test
+  description: test test
 
 project_2
   title:
