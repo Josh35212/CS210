@@ -1,2 +1,1 @@
-mapper.py
-mapper-skel.py
+mapper.py, mapper-skel.py
