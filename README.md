@@ -12,7 +12,7 @@ Projects completed for **CS210** at the **University of Oregon**.
 
 | Project | Title | Description |
 |:-------:|-------|-------------|
-| [Project 1](./project_1) | **Jumbler** | |
+| [Project 1](./project_1) | **Jumbler** | **List dictionary words that match an anagram** |
 | [Project 2](./project_2) | | |
 | [Project 3](./project_3) | | |
 | [Project 4](./project_4) | | |
