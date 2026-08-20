@@ -14,7 +14,7 @@ Projects completed for **CS210** at the **University of Oregon**.
 |:-------:|-------|-------------|
 | [Project 1](./project_1) | **Jumbler** | **List dictionary words that match an anagram** |
 | [Project 2](./project_2) | **Estimating Pi** | **** |
-| [Project 3](./project_3) | **Class Enrollment** | **** |
+| [Project 3](./project_3) | **Class Enrollment** | **Summary report of majors enrolled in a class** |
 | [Project 4](./project_4) | **** | **** |
 | [Project 5](./project_5) | **** | **** |
 | [Project 6](./project_6) | **** | **** |
