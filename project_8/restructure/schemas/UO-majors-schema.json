@@ -1,0 +1,64 @@
+[{
+  "CAS": {
+    "SCDS": [
+      "CS",
+      "CIS",
+      "DSCI",
+      "MACS", "PMCS",
+      "CYBR"
+    ],
+    "Global": [
+      "JDST", "AST", "JPN", "CHN",  "ITAL", "R&ES", "LAS",
+      "FR", "FREN", "GER", "RL",  "SPAN"
+    ],
+    "NatSci": [
+      {"pre-med": ["HPHY", "BI", "BIC", "NEUR"]},
+      "PSY",
+      "PHYS",
+      "MSCI",
+      "MATH",
+      "CH",
+      ["GEOL", "ERTH"],
+      "MARB", "GS",
+      "ESCI",
+      "PEN"
+    ],
+    "SocSci": [
+      {"Geography":  ["GEOG", "SDSC"]},
+      "ANTH", "ENV", "HIST", "HUM",
+      "PS",  "GLBL",
+      "EC", "GSS", "INTL", "PINS",
+      "ETHN", "FLR",
+      "LING", "NAIS",
+      "SOC", "WGS", "WGSS"
+    ],
+    "Hum": [
+      "ENG", "CLAS", "FPC",
+      "CINE", "COLT",  "MDVL", "TA", "PHIL", "REL"
+    ]
+  },
+  "Business": [
+    "BADM",
+    "ACTG",
+    "PBA"
+  ],
+  "Design": [
+    "AMAN", "ARBF", "ARCH", "ARDF", "ARDG", "ARH",
+    "ART", "ARTC", "ARTF", "ARTM", "ARTO", "ARTP", "ARTR",
+    "ARTS", "ATCF", "ATCH", "ENVD", "IARC", "LA", "MPS",
+    "P3PM", "PDS", "PDSG", "PLA", "PPPM"
+  ],
+  "Ed": [
+    "CDS", "EDF", "PED", "PFHS", "FHS"
+  ],
+  "Child Bhvr": [
+    "CBH", "PCBH"
+  ],
+  "SOJC": [
+    "J", "JAD", "JMS", "JPR",
+    "PAD", "PJ", "PJMS", "PPR"
+  ],
+  "SOMD": [
+    "DABF", "DANC", "MCOM", "MJS", "MPTL", "MUED", "MUP", "MUS", "POP"
+  ]
+}]

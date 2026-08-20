@@ -1,0 +1,17 @@
+# Color scheme for grouping major codes at U. Oregon,,
+"#    Groupings are from schema file with schools and programs (e.g., SOMD, Global)",,
+"#    and include some arbitrary decisions, like grouping common pre-med majors",,
+#   and placing psychology in the natural sciences rather than social sciences. ,,
+# Program,Tile-color,Text-color
+CAS,aquamarine,black
+SCDS,darkturquoise,black
+Global,deepskyblue,black
+NatSci,cadetblue,black
+pre-med,cornflowerblue,black
+SocSci,#99ddff,black
+Business,darkseagreen,black
+Design,burlywood,black
+Ed,darkkhaki,black
+ChildBhvr,khaki,black
+SOJC,beige,black
+SOMD,cornflowerblue,white

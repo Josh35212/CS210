@@ -1,0 +1,5 @@
+{
+  "COMMENT": "beverages_by_meal is a tiny test file for aggregate.py.  Note order of headers",
+  "labels": [ "Month", "Week", "Meal"],
+  "values": [ "Coffee", "Tea" ]
+}
