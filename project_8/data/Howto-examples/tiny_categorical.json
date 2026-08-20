@@ -1,0 +1,10 @@
+{
+  "Cake": {
+    "Chocolate": 10,
+    "Carrot": 4
+  },
+  "Ice Cream": {
+    "Vanilla": 10,
+    "Strawberry": 5
+  }
+}

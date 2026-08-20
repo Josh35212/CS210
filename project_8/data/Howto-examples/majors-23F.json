@@ -1,0 +1,42 @@
+{
+   "cas": {
+      "SCDS": {
+         "CS": 77,
+         "DSCI": 33,
+         "MACS": 11,
+         "CIS": 2
+      },
+      "NatSci": {
+         "PSY": 8,
+         "PHYS": 5,
+         "MSCI": 4,
+         "MATH": 4,
+         "BI": 3,
+         "NEUR": 2,
+         "MARB": 1,
+         "ESCI": 1
+      },
+      "SocSci": {
+         "PS": 3,
+         "LING": 2,
+         "EC": 2,
+         "SDSC": 1
+      },
+      "Global": {
+         "JPN": 1,
+         "ENG": 1
+      }
+   },
+   "EXPL": 15,
+   "Business": {
+      "PBA": 10,
+      "BADM": 5,
+      "ACTG": 1
+   },
+   "SOMD": { "MUS":  1 },
+   "Design": {
+      "ATCH": 1,
+      "ATCF": 1,
+      "ARH": 1
+   }
+}

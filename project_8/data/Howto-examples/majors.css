@@ -1,0 +1,7 @@
+/*  Sample style sheet for UO majors grouped by school, college, etc.
+    Work in progress; we will experiment with ways to better manage default (random) colors
+    with optional style sheets for better designed color schemes (and potentially other
+    attributes like typefaces, outline styles, etc).
+ */
+.J { fill: yellow }
+.SCDS { fill: bisque }
