@@ -10,7 +10,7 @@ Projects completed for **CS210** at the **University of Oregon**.
 
 ## Projects
 
-| Project | Title | Description |
+| Project # | Title | Description |
 |:-------:|-------|-------------|
 | [Project 1](./project_1) | **Jumbler** | **List dictionary words that match an anagram** |
 | [Project 2](./project_2) | **Pi** | **Estimate the value of Pi with Monte Carlo simulation** |
