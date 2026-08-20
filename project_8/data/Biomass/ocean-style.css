@@ -1,0 +1,16 @@
+/* Experiment styling SVG elements in CSS.
+ * Note multiple alternatives for specifying the color of
+ * text labels within a tile, including combinations
+ * text.class {}, .class { text {}},  .class .tile_label { }
+*/
+.viruses { fill: burlywood;  }
+.viruses text { fill: black; }
+.prokaryotes { fill: darkcyan; }
+.prokaryotes text { fill: white; }
+.protists { fill: lightgoldenrodyellow; .tile_label { fill: black }}
+.animals { fill: cornsilk; }
+.animals .tile_label { fill: black }
+.fungi { fill: antiquewhite; }
+text.fungi {fill: black; }
+.plants { fill: lemonchiffon;
+    text { fill: black; } }
