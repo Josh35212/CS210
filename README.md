@@ -1,6 +1,5 @@
 # CS210 — Projects
 
-Projects completed for **CS210** at the **University of Oregon**.
 
 > [!NOTE]
 > All data, graphics, and other miscellaneous directories were provided by **Professor Michal Young**.
@@ -25,7 +24,7 @@ Projects completed for **CS210** at the **University of Oregon**.
 
 ## About This Repository
 
-This repository contains my work from CS210. Each project directory contains its own `README.md` with additional information about the assignment and the specific files of code that I completed.
+This repository contains my work from **CS210** at the **University of Oregon**. Each project directory contains its own `README.md` with additional information about the assignment and the specific files of code that I completed.
 
 ### Attribution
 
