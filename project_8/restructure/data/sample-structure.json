@@ -1,0 +1,4 @@
+[{"protein":  ["milk", "eggs"]},
+  {"starch": { "grain":  ["wheat", "buckwheet", "rye"],
+              "roots":  ["potato", "carrot", "turnip"] }}
+]

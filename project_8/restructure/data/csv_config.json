@@ -1,0 +1,5 @@
+{
+  "COMMENT" : "Configuration file for csv_to_json.py, gives schema of CSV file by listing column headers",
+  "labels" : ["Program" ,"Level" , "Course"],
+  "values" : ["SCH"]
+}
