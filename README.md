@@ -1,39 +1,35 @@
-# CS210
-Projects from CS210 at the University of Oregon
+# CS210 — Projects
 
-ALL DATA, GRAPHICS, AND OTHER MISCELLANEOUS DIRECTORIES
-WERE PROVIDED BY PROFESSOR MICHAL YOUNG. I ONLY TAKE CREDIT
-FOR THE FILES OF CODE MENTIONED IN EACH PROJECT README.md!!
+Projects completed for **CS210: Software Methodologies** at the **University of Oregon**.
 
-----------DIRECTORY----------
-project_1
-  title: Jumbler
-  description: test test
+> [!NOTE]
+> All data, graphics, and other miscellaneous directories were provided by **Professor Michal Young**.
+> I only take credit for the code files specifically identified in each project's `README.md`.
 
-project_2
-  title:
-  description:
+---
 
-project_3
-  title:
-  description:
+## Projects
 
-project_4
-  title:
-  description:
+| Project | Title | Description |
+|:-------:|-------|-------------|
+| [Project 1](./project_1) | **Jumbler** | |
+| [Project 2](./project_2) | | |
+| [Project 3](./project_3) | | |
+| [Project 4](./project_4) | | |
+| [Project 5](./project_5) | | |
+| [Project 6](./project_6) | | |
+| [Project 7](./project_7) | | |
+| [Project 8](./project_8) | | |
 
-project_5
-  title:
-  description:
+---
 
-project_6
-  title:
-  description:
+## About This Repository
 
-project_7
-  title:
-  description:
+This repository contains my work from CS210. Each project directory contains its own `README.md` with additional information about the assignment and the specific files of code that I completed.
 
-project_8
-  title:
-  description:
+### Attribution
+
+- **Course:** CS210
+- **University:** University of Oregon
+- **Professor:** Michal Young
+- **Student:** Josh Gilliam
