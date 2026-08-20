@@ -1,0 +1,103 @@
+{
+   "Business": {
+      "ACTG": 483,
+      "BADM": 2696
+   },
+   "Design": {
+      "AMAN": 5,
+      "ARBF": 58,
+      "ARCH": 320,
+      "ARH": 36,
+      "ART": 275,
+      "ARTO": 3,
+      "ARTP": 2,
+      "ATCF": 39,
+      "ATCH": 303,
+      "ENVD": 2,
+      "IARC": 69,
+      "LA": 52,
+      "PDS": 56,
+      "PDSG": 135,
+      "PPPM": 317
+   },
+   "CAS": {
+      "SocSci": {
+         "ANTH": 346,
+         "EC": 955,
+         "ENV": 390,
+         "ETHN": 115,
+         "GEOG": 130,
+         "GLBL": 415,
+         "GSS": 1421,
+         "HIST": 322,
+         "HUM": 29,
+         "LING": 131,
+         "PS": 975,
+         "SDSC": 111,
+         "SOC": 579,
+         "WGSS": 65
+      },
+      "Global": {
+         "AST": 55,
+         "CHN": 66,
+         "FREN": 41,
+         "GER": 36,
+         "ITAL": 6,
+         "JDST": 1,
+         "JPN": 100,
+         "LAS": 16,
+         "R&ES": 12,
+         "RL": 45,
+         "SPAN": 300
+      },
+      "NatSci": {
+         "pre-med": {"HPHY": 1012, "BI": 491, "BIC": 108,  "NEUR": 89},
+         "CH": 116,
+         "ERTH": 95,
+         "ESCI": 213,
+
+         "MARB": 121,
+         "MATH": 298,
+         "MSCI": 522,
+         "PSY": 1780,
+         "PHYS": 115
+
+      },
+      "Hum": {
+         "CINE": 373,
+         "CLAS": 17,
+         "COLT": 47,
+         "ENG": 345,
+         "FPC": 16,
+         "MDVL": 14,
+         "PHIL": 146,
+         "REL": 24,
+         "TA": 87
+      },
+      "SCDS": {
+         "CS": 410,
+         "DSCI": 60,
+         "MACS": 59
+      }
+   },
+   "Ed": {
+      "CDS": 250,
+      "EDF": 393,
+      "FHS": 482
+   },
+   "SOMD": {
+      "DABF": 1,
+      "DANC": 39,
+      "MCOM": 11,
+      "MJS": 19,
+      "MUED": 72,
+      "MUP": 65,
+      "MUS": 208
+   },
+   "SOJC": {
+      "J": 669,
+      "JAD": 1413,
+      "JMS": 78,
+      "JPR": 932
+   }
+}

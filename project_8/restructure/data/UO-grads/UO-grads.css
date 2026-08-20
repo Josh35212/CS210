@@ -1,0 +1,17 @@
+/*  Color scheme grouping UO majors;
+ * based on grouping in schemas/UO-majors-schema.json
+ */
+
+.CAS { fill: aquamarine; text { fill: black; }}
+.SCDS { fill: darkturquoise; text { fill: black; }}
+.Global { fill: deepskyblue; text { fill: black; }}
+.NatSci { fill: cadetblue;  text { fill: black; }}
+/* Pre-med majors within NatSci */
+.pre-med { fill: cornflowerblue;  text {  font-style: italic }}
+.SocSci { fill: dodgerblue;  text { fill: black; }}
+.Business { fill: darkseagreen; text { fill:  black; }}
+.Design { fill: burlywood; text { fill: black; }}
+.Ed { fill: darkkhaki; text { fill: white; }}
+.ChildBhvr { fill: khaki; text {fill: black }}
+.SOJC { fill: beige; text {fill: black; }}
+.SOMD { fill: cornflowerblue; text {fill: white; }}
