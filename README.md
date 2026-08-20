@@ -17,7 +17,7 @@ Projects completed for **CS210** at the **University of Oregon**.
 | [Project 3](./project_3) | **Enrollment** | **Summary report of majors enrolled in a class** |
 | [Project 4](./project_4) | **Wildfire** | **Geographic clustering of historical wildfire data** |
 | [Project 5](./project_5) | **Cave** | **Flood-fill to count chambers in a cave** |
-| [Project 6](./project_6) | **Boggler** | **** |
+| [Project 6](./project_6) | **Boggler** | **Boggle game solver** |
 | [Project 7](./project_7) | **** | **** |
 | [Project 8](./project_8) | **Treemap** | **** |
 
