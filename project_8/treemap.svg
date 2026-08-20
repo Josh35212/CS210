@@ -1,0 +1,435 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="768">"
+   <defs>
+   <style>
+   .tile rect { fill: white;  stroke: grey; }
+   .tile_label {
+            text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+            white-space: pre-wrap; 
+    }
+    .group_outline { stroke: grey; fill: white; stroke-width: 2; }
+    .group_outline:hover { stroke: red; fill: red; stroke-width: 20; }
+.CAS { fill: aquamarine; }
+
+.CAS text { fill: black; }
+
+.SCDS { fill: darkturquoise; }
+
+.SCDS text { fill: black; }
+
+.Global { fill: deepskyblue; }
+
+.Global text { fill: black; }
+
+.NatSci { fill: cadetblue; }
+
+.NatSci text { fill: black; }
+
+.pre-med { fill: cornflowerblue; }
+
+.pre-med text { fill: black; }
+
+.SocSci { fill: #99ddff; }
+
+.SocSci text { fill: black; }
+
+.Business { fill: darkseagreen; }
+
+.Business text { fill: black; }
+
+.Design { fill: burlywood; }
+
+.Design text { fill: black; }
+
+.Ed { fill: darkkhaki; }
+
+.Ed text { fill: black; }
+
+.ChildBhvr { fill: khaki; }
+
+.ChildBhvr text { fill: black; }
+
+.SOJC { fill: beige; }
+
+.SOJC text { fill: black; }
+
+.SOMD { fill: cornflowerblue; }
+
+.SOMD text { fill: white; }
+
+.EXPL { fill: lightyellow; stroke: green;}
+
+.EXPL text { fill: black; }
+
+   </style>
+   </defs>
+<g class="group cas">
+            <rect x="3" y="3" 
+            width="835"  height="762"
+            rx="5"  
+            class="group_outline" />
+        <title>cas: 161</title> 
+        
+<g class="group SCDS">
+            <rect x="3" y="3" 
+            width="636"  height="762"
+            rx="5"  
+            class="group_outline" />
+        <title>SCDS: 123</title> 
+        
+
+<g class="CS"><rect x="3" y="3" 
+         width="636"  height="474"
+         rx="10"  
+         class="tile CS" />
+      
+<title>CS – 77</title>
+<text x="321"  y="240" class="tile_label CS">
+              <tspan>CS</tspan><tspan x="321" dy="1.2em">77</tspan>
+            </text>
+            
+</g>
+
+<g class="DSCI"><rect x="3" y="483" 
+         width="454"  height="282"
+         rx="10"  
+         class="tile DSCI" />
+      
+<title>DSCI – 33</title>
+<text x="230"  y="624" class="tile_label DSCI">
+              <tspan>DSCI</tspan><tspan x="230" dy="1.2em">33</tspan>
+            </text>
+            
+</g>
+
+<g class="MACS"><rect x="463" y="483" 
+         width="176"  height="237"
+         rx="10"  
+         class="tile MACS" />
+      
+<title>MACS – 11</title>
+<text x="551"  y="601" class="tile_label MACS">
+              <tspan>MACS</tspan><tspan x="551" dy="1.2em">11</tspan>
+            </text>
+            
+</g>
+
+<g class="CIS"><rect x="463" y="726" 
+         width="176"  height="39"
+         rx="10"  
+         class="tile CIS" />
+      
+<title>CIS – 2</title>
+<text x="551"  y="745" class="tile_label CIS">
+              <tspan>CIS</tspan><tspan x="551" dy="1.2em">2</tspan>
+            </text>
+            
+</g>
+
+</g>
+<g class="group NatSci">
+            <rect x="645" y="3" 
+            width="193"  height="559"
+            rx="5"  
+            class="group_outline" />
+        <title>NatSci: 28</title> 
+        
+
+<g class="PSY"><rect x="645" y="3" 
+         width="193"  height="155"
+         rx="10"  
+         class="tile PSY" />
+      
+<title>PSY – 8</title>
+<text x="741"  y="80" class="tile_label PSY">
+              <tspan>PSY</tspan><tspan x="741" dy="1.2em">8</tspan>
+            </text>
+            
+</g>
+
+<g class="PHYS"><rect x="645" y="164" 
+         width="193"  height="95"
+         rx="10"  
+         class="tile PHYS" />
+      
+<title>PHYS – 5</title>
+<text x="741"  y="211" class="tile_label PHYS">
+              <tspan>PHYS</tspan><tspan x="741" dy="1.2em">5</tspan>
+            </text>
+            
+</g>
+
+<g class="MSCI"><rect x="645" y="265" 
+         width="93"  height="155"
+         rx="10"  
+         class="tile MSCI" />
+      
+<title>MSCI – 4</title>
+<text x="691"  y="342" class="tile_label MSCI">
+              <tspan>MSCI</tspan><tspan x="691" dy="1.2em">4</tspan>
+            </text>
+            
+</g>
+
+<g class="MATH"><rect x="744" y="265" 
+         width="94"  height="155"
+         rx="10"  
+         class="tile MATH" />
+      
+<title>MATH – 4</title>
+<text x="791"  y="342" class="tile_label MATH">
+              <tspan>MATH</tspan><tspan x="791" dy="1.2em">4</tspan>
+            </text>
+            
+</g>
+
+<g class="BI"><rect x="645" y="426" 
+         width="79"  height="136"
+         rx="10"  
+         class="tile BI" />
+      
+<title>BI – 3</title>
+<text x="684"  y="494" class="tile_label BI">
+              <tspan>BI</tspan><tspan x="684" dy="1.2em">3</tspan>
+            </text>
+            
+</g>
+
+<g class="NEUR"><rect x="730" y="426" 
+         width="108"  height="65"
+         rx="10"  
+         class="tile NEUR" />
+      
+<title>NEUR – 2</title>
+<text x="784"  y="458" class="tile_label NEUR">
+              <tspan>NEUR</tspan><tspan x="784" dy="1.2em">2</tspan>
+            </text>
+            
+</g>
+
+<g class="MARB"><rect x="730" y="497" 
+         width="51"  height="65"
+         rx="10"  
+         class="tile MARB" />
+      
+<title>MARB – 1</title>
+<text x="755"  y="529" class="tile_label MARB">
+              <tspan>MARB</tspan><tspan x="755" dy="1.2em">1</tspan>
+            </text>
+            
+</g>
+
+<g class="ESCI"><rect x="787" y="497" 
+         width="51"  height="65"
+         rx="10"  
+         class="tile ESCI" />
+      
+<title>ESCI – 1</title>
+<text x="812"  y="529" class="tile_label ESCI">
+              <tspan>ESCI</tspan><tspan x="812" dy="1.2em">1</tspan>
+            </text>
+            
+</g>
+
+</g>
+<g class="group SocSci">
+            <rect x="645" y="568" 
+            width="193"  height="156"
+            rx="5"  
+            class="group_outline" />
+        <title>SocSci: 8</title> 
+        
+
+<g class="PS"><rect x="645" y="568" 
+         width="68"  height="156"
+         rx="10"  
+         class="tile PS" />
+      
+<title>PS – 3</title>
+<text x="679"  y="646" class="tile_label PS">
+              <tspan>PS</tspan><tspan x="679" dy="1.2em">3</tspan>
+            </text>
+            
+</g>
+
+<g class="LING"><rect x="719" y="568" 
+         width="119"  height="58"
+         rx="10"  
+         class="tile LING" />
+      
+<title>LING – 2</title>
+<text x="778"  y="597" class="tile_label LING">
+              <tspan>LING</tspan><tspan x="778" dy="1.2em">2</tspan>
+            </text>
+            
+</g>
+
+<g class="EC"><rect x="719" y="632" 
+         width="77"  height="92"
+         rx="10"  
+         class="tile EC" />
+      
+<title>EC – 2</title>
+<text x="757"  y="678" class="tile_label EC">
+              <tspan>EC</tspan><tspan x="757" dy="1.2em">2</tspan>
+            </text>
+            
+</g>
+
+<g class="SDSC"><rect x="802" y="632" 
+         width="36"  height="92"
+         rx="10"  
+         class="tile SDSC" />
+      
+<title>SDSC – 1</title>
+</g>
+
+</g>
+<g class="group Global">
+            <rect x="645" y="730" 
+            width="193"  height="35"
+            rx="5"  
+            class="group_outline" />
+        <title>Global: 2</title> 
+        
+
+<g class="JPN"><rect x="645" y="730" 
+         width="93"  height="35"
+         rx="10"  
+         class="tile JPN" />
+      
+<title>JPN – 1</title>
+<text x="691"  y="747" class="tile_label JPN">
+              <tspan>JPN</tspan><tspan x="691" dy="1.2em">1</tspan>
+            </text>
+            
+</g>
+
+<g class="ENG"><rect x="744" y="730" 
+         width="94"  height="35"
+         rx="10"  
+         class="tile ENG" />
+      
+<title>ENG – 1</title>
+<text x="791"  y="747" class="tile_label ENG">
+              <tspan>ENG</tspan><tspan x="791" dy="1.2em">1</tspan>
+            </text>
+            
+</g>
+
+</g>
+
+</g>
+
+<g class="EXPL"><rect x="844" y="3" 
+         width="177"  height="323"
+         rx="10"  
+         class="tile EXPL" />
+      
+<title>EXPL – 15</title>
+<text x="932"  y="164" class="tile_label EXPL">
+              <tspan>EXPL</tspan><tspan x="932" dy="1.2em">15</tspan>
+            </text>
+            
+</g>
+<g class="group Business">
+            <rect x="844" y="332" 
+            width="177"  height="345"
+            rx="5"  
+            class="group_outline" />
+        <title>Business: 16</title> 
+        
+
+<g class="PBA"><rect x="844" y="332" 
+         width="177"  height="213"
+         rx="10"  
+         class="tile PBA" />
+      
+<title>PBA – 10</title>
+<text x="932"  y="438" class="tile_label PBA">
+              <tspan>PBA</tspan><tspan x="932" dy="1.2em">10</tspan>
+            </text>
+            
+</g>
+
+<g class="BADM"><rect x="844" y="551" 
+         width="146"  height="126"
+         rx="10"  
+         class="tile BADM" />
+      
+<title>BADM – 5</title>
+<text x="917"  y="614" class="tile_label BADM">
+              <tspan>BADM</tspan><tspan x="917" dy="1.2em">5</tspan>
+            </text>
+            
+</g>
+
+<g class="ACTG"><rect x="996" y="551" 
+         width="25"  height="126"
+         rx="10"  
+         class="tile ACTG" />
+      
+<title>ACTG – 1</title>
+</g>
+
+</g>
+<g class="group SOMD">
+            <rect x="844" y="683" 
+            width="39"  height="82"
+            rx="5"  
+            class="group_outline" />
+        <title>SOMD: 1</title> 
+        
+
+<g class="MUS"><rect x="844" y="683" 
+         width="39"  height="82"
+         rx="10"  
+         class="tile MUS" />
+      
+<title>MUS – 1</title>
+<text x="863"  y="724" class="tile_label MUS">
+              <tspan>MUS</tspan><tspan x="863" dy="1.2em">1</tspan>
+            </text>
+            
+</g>
+
+</g>
+<g class="group Design">
+            <rect x="889" y="683" 
+            width="132"  height="82"
+            rx="5"  
+            class="group_outline" />
+        <title>Design: 3</title> 
+        
+
+<g class="ATCH"><rect x="889" y="683" 
+         width="40"  height="82"
+         rx="10"  
+         class="tile ATCH" />
+      
+<title>ATCH – 1</title>
+</g>
+
+<g class="ATCF"><rect x="935" y="683" 
+         width="40"  height="82"
+         rx="10"  
+         class="tile ATCF" />
+      
+<title>ATCF – 1</title>
+</g>
+
+<g class="ARH"><rect x="981" y="683" 
+         width="40"  height="82"
+         rx="10"  
+         class="tile ARH" />
+      
+<title>ARH – 1</title>
+<text x="1001"  y="724" class="tile_label ARH">
+              <tspan>ARH</tspan><tspan x="1001" dy="1.2em">1</tspan>
+            </text>
+            
+</g>
+
+</g>
+</svg>
