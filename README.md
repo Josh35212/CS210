@@ -1,6 +1,6 @@
 # CS210 — Projects
 
-Projects completed for **CS210: Software Methodologies** at the **University of Oregon**.
+Projects completed for **CS210** at the **University of Oregon**.
 
 > [!NOTE]
 > All data, graphics, and other miscellaneous directories were provided by **Professor Michal Young**.
