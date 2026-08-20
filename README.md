@@ -15,7 +15,7 @@ Projects completed for **CS210** at the **University of Oregon**.
 | [Project 1](./project_1) | **Jumbler** | **List dictionary words that match an anagram** |
 | [Project 2](./project_2) | **Pi** | **Estimate the value of Pi with Monte Carlo simulation** |
 | [Project 3](./project_3) | **Enrollment** | **Summary report of majors enrolled in a class** |
-| [Project 4](./project_4) | **Wildfire** | **** |
+| [Project 4](./project_4) | **Wildfire** | **Geographic clustering of historical wildfire data** |
 | [Project 5](./project_5) | **Cave** | **** |
 | [Project 6](./project_6) | **Boggler** | **** |
 | [Project 7](./project_7) | **** | **** |
