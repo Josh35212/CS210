@@ -1,0 +1,7 @@
+[ [], {}, 5,
+  { "Unexpected values":
+    { "Unlabeled nested lists":  [[5, 3], 2 ],
+      "Empty dictonaries": {},
+      "Empty lists": [],
+      "Empty nested lists": [[], []]
+  }}]
